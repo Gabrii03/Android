@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._030RunTimeWidget" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme._030RunTimeWidget" parent="Base.Theme._030RunTimeWidget" />
+    <style name="MiEstilo">
+    <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="backgroundColor">#000000</item>
+        <item name="android:textColor">#AF0000</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center</item>
+
+
+
+    </style>
+</resources>
